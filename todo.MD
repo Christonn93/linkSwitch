@@ -1,4 +1,0 @@
-- [ ] Backup theme/betheme-child
-- [ ] Process list of changes into action list
-- [ ] Research PHP memory limit issue
-- [ ] Produce simple cost estimate
