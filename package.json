@@ -1,0 +1,20 @@
+{
+  "name": "726ab42b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christonn93/726ab42b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christonn93/726ab42b/issues"
+  },
+  "homepage": "https://github.com/Christonn93/726ab42b#readme"
+}
