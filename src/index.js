@@ -64,7 +64,7 @@ const storeLinks = [
 async function getJson(countryCode) {
  const country = storeLinks.find((c) => c.countryCode === countryCode);
 
- const url = country?.url ?? "https://www.amazon.com";
+ const url = country?.url ?? "https://www.amazon.com/stores/GripGear/page/43CA3145-470B-4A16-A4D5-7F8315B93599?ref_=ast_bln";
 
  relocateTarget(url);
 }
